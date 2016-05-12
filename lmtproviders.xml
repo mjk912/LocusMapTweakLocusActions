@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locusActions>
+
+<download>
+
+<source size="9999">
+<![CDATA[ https://github.com/mjk912/LocusMapTweak/blob/master/lmtproviders.zip ]]>
+</source>
+
+<dest><![CDATA[ /mapsOnline/custom/lmtproviders.zip ]]></dest>
+
+<after>extract|deleteSource|refreshMap</after>
+
+</download>
+
+
+
+</locusActions>
