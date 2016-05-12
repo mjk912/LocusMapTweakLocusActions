@@ -4,7 +4,7 @@
 <download>
 
 <source size="9999">
-<![CDATA[ https://raw.githubusercontent.com/mjk912/LocusMapTweakLocusActions/master/lmtproviders.zip ]]>
+<![CDATA[ https://github.com/mjk912/LocusMapTweakLocusActions/raw/master/lmtproviders.zip ]]>
 </source>
 
 <dest><![CDATA[ /mapsOnline/custom/lmtproviders.zip ]]></dest>
